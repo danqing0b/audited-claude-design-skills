@@ -1,0 +1,2127 @@
+[
+  {
+    "name": "@babel/code-frame",
+    "version": "7.29.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/code-frame@7.29.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/compat-data",
+    "version": "7.29.3",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/compat-data@7.29.3",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/core",
+    "version": "7.29.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/core@7.29.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/generator",
+    "version": "7.29.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+generator@7.29.1",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/generator@7.29.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-annotate-as-pure",
+    "version": "7.27.3",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-annotate-as-pure@7.27.3",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-annotate-as-pure@7.27.3",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-compilation-targets",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-compilation-targets@7.28.6",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-create-class-features-plugin",
+    "version": "7.29.3",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-create-class-features-plugin@7.29.3_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-create-class-features-plugin@7.29.3(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-globals",
+    "version": "7.28.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-globals@7.28.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-globals@7.28.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-member-expression-to-functions",
+    "version": "7.28.5",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-member-expression-to-functions@7.28.5",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-member-expression-to-functions@7.28.5",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-module-imports",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-module-imports@7.28.6",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-module-imports@7.28.6",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-module-transforms",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-module-transforms@7.28.6_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-module-transforms@7.28.6(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-optimise-call-expression",
+    "version": "7.27.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-optimise-call-expression@7.27.1",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-optimise-call-expression@7.27.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-plugin-utils",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-plugin-utils@7.28.6",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-plugin-utils@7.28.6",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-replace-supers",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-replace-supers@7.28.6_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-replace-supers@7.28.6(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-simple-access",
+    "version": "7.27.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-simple-access@7.27.1",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-simple-access@7.27.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-skip-transparent-expression-wrappers",
+    "version": "7.27.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-skip-transparent-expression-wrappers@7.27.1",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-skip-transparent-expression-wrappers@7.27.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-string-parser",
+    "version": "7.27.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-string-parser@7.27.1",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-string-parser@7.27.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-validator-identifier",
+    "version": "7.28.5",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-validator-identifier@7.28.5",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-validator-identifier@7.28.5",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helper-validator-option",
+    "version": "7.27.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helper-validator-option@7.27.1",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-validator-option@7.27.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/helpers",
+    "version": "7.29.2",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+helpers@7.29.2",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helpers@7.29.2",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/parser",
+    "version": "7.29.3",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+parser@7.29.3",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/parser@7.29.3",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-proposal-decorators",
+    "version": "7.29.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-proposal-decorators@7.29.0_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-proposal-decorators@7.29.0(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-syntax-class-properties",
+    "version": "7.12.13",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-syntax-class-properties@7.12.13_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-syntax-class-properties@7.12.13(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-syntax-decorators",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-syntax-decorators@7.28.6_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-syntax-decorators@7.28.6(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-syntax-import-assertions",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-syntax-import-assertions@7.28.6_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-syntax-import-assertions@7.28.6(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-syntax-jsx",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-syntax-jsx@7.28.6_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-syntax-jsx@7.28.6(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-syntax-typescript",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-syntax-typescript@7.28.6_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-syntax-typescript@7.28.6(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-transform-destructuring",
+    "version": "7.28.5",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-transform-destructuring@7.28.5_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-transform-destructuring@7.28.5(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-transform-explicit-resource-management",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-transform-explicit-resource-management@7.28.6_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-transform-explicit-resource-management@7.28.6(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-transform-export-namespace-from",
+    "version": "7.27.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-transform-export-namespace-from@7.27.1_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-transform-export-namespace-from@7.27.1(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-transform-modules-commonjs",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-transform-modules-commonjs@7.28.6_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-transform-modules-commonjs@7.28.6(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-transform-react-jsx",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-transform-react-jsx@7.28.6_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-transform-react-jsx@7.28.6(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/plugin-transform-typescript",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+plugin-transform-typescript@7.28.6_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/plugin-transform-typescript@7.28.6(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/preset-typescript",
+    "version": "7.28.5",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+preset-typescript@7.28.5_@babel+core@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/preset-typescript@7.28.5(@babel/core@7.29.0)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/template",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+template@7.28.6",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/template@7.28.6",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/traverse",
+    "version": "7.29.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+traverse@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/traverse@7.29.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@babel/types",
+    "version": "7.29.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel+types@7.29.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/types@7.29.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@jridgewell/gen-mapping",
+    "version": "0.3.13",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@jridgewell+gen-mapping@0.3.13",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@jridgewell+gen-mapping@0.3.13",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@jridgewell/gen-mapping@0.3.13",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@jridgewell/remapping",
+    "version": "2.3.5",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@jridgewell+remapping@2.3.5",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@jridgewell+remapping@2.3.5",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@jridgewell/remapping@2.3.5",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@jridgewell/resolve-uri",
+    "version": "3.1.2",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@jridgewell+resolve-uri@3.1.2",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@jridgewell+resolve-uri@3.1.2",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@jridgewell/resolve-uri@3.1.2",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@jridgewell/sourcemap-codec",
+    "version": "1.5.5",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@jridgewell+sourcemap-codec@1.5.5",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@jridgewell/sourcemap-codec@1.5.5",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@jridgewell/sourcemap-codec",
+    "version": "1.6.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@jridgewell+sourcemap-codec@1.6.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "@jridgewell/trace-mapping",
+    "version": "0.3.31",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@jridgewell+trace-mapping@0.3.31",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@jridgewell+trace-mapping@0.3.31",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@jridgewell/trace-mapping@0.3.31",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "@polka/compression",
+    "version": "1.0.0-next.25",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@polka+compression@1.0.0-next.25",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "@polka/url",
+    "version": "1.0.0-next.29",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@polka+url@1.0.0-next.29",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "@rolldown/pluginutils",
+    "version": "1.0.1",
+    "origins": [
+      {
+        "host": "rolldown@1.2.19",
+        "identifier": "@rolldown+pluginutils@1.0.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "@rollup/plugin-alias",
+    "version": "6.0.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@rollup+plugin-alias@6.0.1_rollup@4.64.9",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "@rollup/plugin-dynamic-import-vars",
+    "version": "2.1.4",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@rollup+plugin-dynamic-import-vars@2.1.4_rollup@4.64.9",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "@rollup/pluginutils",
+    "version": "5.5.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@rollup+pluginutils@5.5.1_rollup@4.64.9",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "@vitest/utils",
+    "version": "4.1.12",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@vitest+utils@4.1.12",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "@voidzero-dev/vite-task-client",
+    "version": "0.2.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "@voidzero-dev+vite-task-client@0.2.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "acorn",
+    "version": "8.16.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "acorn@8.16.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "anymatch",
+    "version": "3.1.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "anymatch@3.1.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "artichokie",
+    "version": "0.4.5",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "artichokie@0.4.5",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "babel-plugin-parameter-decorator",
+    "version": "1.0.16",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "babel-plugin-parameter-decorator@1.0.16",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "babel-plugin-parameter-decorator@1.0.16",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "baseline-browser-mapping",
+    "version": "2.10.27",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "baseline-browser-mapping@2.10.27",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "binary-extensions",
+    "version": "2.3.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "binary-extensions@2.3.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "braces",
+    "version": "3.0.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "braces@3.0.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "browserslist",
+    "version": "4.28.2",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "browserslist@4.28.2",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "bundle-name",
+    "version": "4.1.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "bundle-name@4.1.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "cac",
+    "version": "7.1.0",
+    "origins": [
+      {
+        "host": "rolldown@1.2.19",
+        "identifier": "cac@7.1.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "vite@8.3.8",
+        "identifier": "cac@7.1.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "caniuse-lite",
+    "version": "1.0.30001791",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "caniuse-lite@1.0.30001791",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "chokidar",
+    "version": "3.6.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "chokidar@3.6.0_patch_hash=e17269188c54412478078f7ac7877c1d5a475a2f2438328e3a7e725513ccbf1f",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "confbox",
+    "version": "0.1.8",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "confbox@0.1.8",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "connect",
+    "version": "3.7.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "connect@3.7.0_ms@2.1.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "consola",
+    "version": "3.4.2",
+    "origins": [
+      {
+        "host": "rolldown@1.2.19",
+        "identifier": "consola@3.4.2",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "convert-source-map",
+    "version": "2.0.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "convert-source-map@2.0.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "vite@8.3.8",
+        "identifier": "convert-source-map@2.0.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "convert-source-map@2.0.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "cors",
+    "version": "2.8.6",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "cors@2.8.6",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "cssesc",
+    "version": "3.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "cssesc@3.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "debug",
+    "version": "4.4.3",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "debug@4.4.3",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "debug@4.4.3",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "default-browser",
+    "version": "5.5.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "default-browser@5.5.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "default-browser-id",
+    "version": "5.0.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "default-browser-id@5.0.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "define-lazy-prop",
+    "version": "3.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "define-lazy-prop@3.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "ee-first",
+    "version": "1.1.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "ee-first@1.1.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "electron-to-chromium",
+    "version": "1.5.349",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "electron-to-chromium@1.5.349",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "encodeurl",
+    "version": "1.0.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "encodeurl@1.0.2",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "entities",
+    "version": "9.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "entities@9.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "escalade",
+    "version": "3.2.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "escalade@3.2.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "escape-html",
+    "version": "1.0.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "escape-html@1.0.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "estree-walker",
+    "version": "3.0.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "estree-walker@3.0.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "etag",
+    "version": "1.8.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "etag@1.8.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "fill-range",
+    "version": "7.1.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "fill-range@7.1.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "finalhandler",
+    "version": "1.1.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "finalhandler@1.1.2_ms@2.1.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "follow-redirects",
+    "version": "1.16.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "follow-redirects@1.16.2_obug@1.0.2",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "fresh-import",
+    "version": "0.2.1",
+    "origins": [
+      {
+        "host": "rolldown@1.2.19",
+        "identifier": "fresh-import@0.2.1",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "vite@8.3.8",
+        "identifier": "fresh-import@0.2.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "generic-names",
+    "version": "4.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "generic-names@4.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "gensync",
+    "version": "1.0.0-beta.2",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "gensync@1.0.0-beta.2",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "gensync@1.0.0-beta.2",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "get-tsconfig",
+    "version": "4.14.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "get-tsconfig@4.14.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "get-tsconfig@4.14.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "glob-parent",
+    "version": "5.1.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "glob-parent@5.1.2",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "has-flag",
+    "version": "4.0.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "has-flag@4.0.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "has-flag@4.0.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "host-validation-middleware",
+    "version": "0.1.4",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "host-validation-middleware@0.1.4",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "http-proxy-3",
+    "version": "1.23.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "http-proxy-3@1.23.3_ms@2.1.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "icss-utils",
+    "version": "5.1.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "icss-utils@5.1.0_postcss@8.5.32",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "is-binary-path",
+    "version": "2.1.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "is-binary-path@2.1.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "is-docker",
+    "version": "3.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "is-docker@3.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "is-extglob",
+    "version": "2.1.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "is-extglob@2.1.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "is-glob",
+    "version": "4.0.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "is-glob@4.0.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "is-inside-container",
+    "version": "1.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "is-inside-container@1.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "is-number",
+    "version": "7.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "is-number@7.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "is-reference",
+    "version": "3.0.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "is-reference@3.0.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "is-wsl",
+    "version": "3.1.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "is-wsl@3.1.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "js-tokens",
+    "version": "10.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "js-tokens@10.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "js-tokens",
+    "version": "4.0.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "js-tokens@4.0.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "jsesc",
+    "version": "3.1.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "jsesc@3.1.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "jsesc@3.1.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "json5",
+    "version": "2.2.3",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "json5@2.2.3",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "json5@2.2.3",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "launch-editor",
+    "version": "2.14.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "launch-editor@2.14.2",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "launch-editor-middleware",
+    "version": "2.14.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "launch-editor-middleware@2.14.2",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "lilconfig",
+    "version": "3.1.4",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "lilconfig@3.1.4",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "loader-utils",
+    "version": "3.3.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "loader-utils@3.3.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "lodash.camelcase",
+    "version": "4.3.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "lodash.camelcase@4.3.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "lru-cache",
+    "version": "5.1.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "lru-cache@5.1.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "magic-string",
+    "version": "1.4.5",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "magic-string@1.4.5",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "mlly",
+    "version": "1.8.2",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "mlly@1.8.2",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "mlly@1.8.2",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "mrmime",
+    "version": "2.0.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "mrmime@2.0.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "ms",
+    "version": "2.1.3",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "ms@2.1.3",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "ms@2.1.3",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "nanoid",
+    "version": "5.1.16",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "nanoid@5.1.16",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "node-releases",
+    "version": "2.0.38",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "node-releases@2.0.38",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "normalize-path",
+    "version": "3.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "normalize-path@3.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "object-assign",
+    "version": "4.1.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "object-assign@4.1.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "obug",
+    "version": "1.0.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "obug@1.0.2_ms@2.1.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "on-finished",
+    "version": "2.3.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "on-finished@2.3.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "open",
+    "version": "10.2.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "open@10.2.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "oxc-parser",
+    "version": "0.156.0",
+    "origins": [
+      {
+        "host": "rolldown@1.2.19",
+        "identifier": "oxc-parser@0.156.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "parse5",
+    "version": "8.1.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "parse5@8.1.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "parseurl",
+    "version": "1.3.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "parseurl@1.3.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "pathe",
+    "version": "2.0.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "pathe@2.0.3",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "pathe@2.0.3",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "periscopic",
+    "version": "4.0.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "periscopic@4.0.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "picocolors",
+    "version": "1.1.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "picocolors@1.1.1",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "picocolors@1.1.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "pkg-types",
+    "version": "1.3.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "pkg-types@1.3.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "postcss-import",
+    "version": "16.2.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "postcss-import@16.2.0_postcss@8.5.32",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "postcss-load-config",
+    "version": "6.0.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "postcss-load-config@6.0.1_jiti@2.7.0_postcss@8.5.32_tsx@4.23.15_yaml@2.9.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "postcss-modules",
+    "version": "9.0.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "postcss-modules@9.0.1_postcss@8.5.32",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "postcss-modules-extract-imports",
+    "version": "3.1.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "postcss-modules-extract-imports@3.1.0_postcss@8.5.32",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "postcss-modules-local-by-default",
+    "version": "4.2.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "postcss-modules-local-by-default@4.2.0_postcss@8.5.32",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "postcss-modules-scope",
+    "version": "3.2.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "postcss-modules-scope@3.2.1_postcss@8.5.32",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "postcss-modules-values",
+    "version": "4.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "postcss-modules-values@4.0.0_postcss@8.5.32",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "postcss-selector-parser",
+    "version": "7.1.6",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "postcss-selector-parser@7.1.6",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "postcss-value-parser",
+    "version": "4.2.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "postcss-value-parser@4.2.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "readdirp",
+    "version": "3.6.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "readdirp@3.6.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "remeda",
+    "version": "2.53.0",
+    "origins": [
+      {
+        "host": "rolldown@1.2.19",
+        "identifier": "remeda@2.53.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "resolve-pkg-maps",
+    "version": "1.0.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "resolve-pkg-maps@1.0.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "resolve-pkg-maps@1.0.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "resolve.exports",
+    "version": "2.0.4",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "resolve.exports@2.0.4",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "run-applescript",
+    "version": "7.1.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "run-applescript@7.1.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "semver",
+    "version": "6.3.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "semver@6.3.1",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "semver@6.3.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "shell-quote",
+    "version": "1.12.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "shell-quote@1.12.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "signal-exit",
+    "version": "4.1.0",
+    "origins": [
+      {
+        "host": "rolldown@1.2.19",
+        "identifier": "signal-exit@4.1.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "sirv",
+    "version": "3.0.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "sirv@3.0.2_patch_hash=c07c56eb72faea34341d465cde2314e89db472106ed378181e3447893af6bf95",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "statuses",
+    "version": "1.5.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "statuses@1.5.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "std-env",
+    "version": "4.3.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "std-env@4.3.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "string-hash",
+    "version": "1.1.3",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "string-hash@1.1.3",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "strip-literal",
+    "version": "4.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "strip-literal@4.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "supports-color",
+    "version": "7.2.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "supports-color@7.2.0",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "supports-color@7.2.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "tinyexec",
+    "version": "1.3.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "tinyexec@1.3.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "to-regex-range",
+    "version": "5.0.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "to-regex-range@5.0.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "totalist",
+    "version": "3.0.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "totalist@3.0.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "ufo",
+    "version": "1.6.4",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "ufo@1.6.4",
+        "kind": "observed-bundle-module"
+      },
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "ufo@1.6.4",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "unpipe",
+    "version": "1.0.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "unpipe@1.0.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "update-browserslist-db",
+    "version": "1.2.3",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "update-browserslist-db@1.2.3(browserslist@4.28.2)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "util-deprecate",
+    "version": "1.0.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "util-deprecate@1.0.2",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "utils-merge",
+    "version": "1.0.1",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "utils-merge@1.0.1",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "vary",
+    "version": "1.1.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "vary@1.1.2",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "ws",
+    "version": "8.22.2",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "ws@8.22.2",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "wsl-utils",
+    "version": "0.1.0",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "wsl-utils@0.1.0",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  },
+  {
+    "name": "yallist",
+    "version": "3.1.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "yallist@3.1.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ]
+  },
+  {
+    "name": "zimmerframe",
+    "version": "1.1.5",
+    "origins": [
+      {
+        "host": "vite@8.3.8",
+        "identifier": "zimmerframe@1.1.5",
+        "kind": "observed-bundle-module"
+      }
+    ]
+  }
+]

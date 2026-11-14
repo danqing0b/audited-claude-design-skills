@@ -1,0 +1,64 @@
+{
+  "status": "passed",
+  "validatedAt": "2026-11-14T15:03:44.441820+00:00",
+  "platform": "Linux x86_64 glibc; Node 24.22.1; npm 11.x; container UID 1000",
+  "baseImage": "node:24.22.1-bookworm-slim@sha256:be8204d4bd327363357f532187b752ff62759c31bedf98e9e18fc08c9cbd605c",
+  "installation": "npm ci; empty temporary cache; offline=true; local archives; lifecycle scripts ignored",
+  "networkIsolation": "Docker build --network=none and RUN --network=none; control and negative tests had only lo interface",
+  "typecheck": "passed for all src components",
+  "unitTests": {
+    "passed": 19,
+    "failed": 0
+  },
+  "singleFileBuild": "passed; no external script/style dependencies",
+  "artifactSha256": "5c8d8b15bf928503eb9a0f9cc9fea851029b6cad1476ccec4626a9ae0f1e4b34",
+  "jitiControl": {
+    "before": {
+      "canaryFileReads": 1,
+      "outputMapContainsFakeSecret": true
+    },
+    "after": {
+      "canaryFileReads": 0,
+      "outputMapContainsFakeSecret": false
+    },
+    "realSecretsUsed": false,
+    "uid": 1000,
+    "node": "v24.22.1",
+    "networkInterfaces": [
+      "lo"
+    ]
+  },
+  "dependencyNegativeTests": {
+    "missingArchiveRejectedBeforeInstall": true,
+    "missingLocalArchiveNotRepaired": true,
+    "remoteResolutionBlockedByOfflineConfig": true,
+    "missingLocalError": "ENOENT",
+    "remoteError": "ENOTCACHED",
+    "networkInterfaces": [
+      "lo"
+    ]
+  },
+  "browser": {
+    "browser": "Chromium headless; loopback-only navigation then offline interactions; non-loopback requests blocked",
+    "ui": {
+      "counter": true,
+      "dialogOpenAndClose": true,
+      "externalRequests": [],
+      "pageErrors": []
+    },
+    "algorithmicArt": {
+      "canvas": {
+        "width": 1200,
+        "height": 1200
+      },
+      "externalRequests": [],
+      "pageErrors": []
+    }
+  },
+  "standaloneInitialization": "local template copy and all vendored archive verification passed; no scaffolder or download used",
+  "limitations": [
+    "Other platforms archived but not executed.",
+    "Static review and controlled behavior tests do not prove absence of all unknown vulnerabilities.",
+    "Native/WASM binaries were not independently reverse engineered or reproducibly built."
+  ]
+}

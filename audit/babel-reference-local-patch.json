@@ -1,0 +1,9 @@
+{
+  "package": "@babel/core@7.29.0",
+  "type": "supplemental reference archive; not installed independently",
+  "file": "lib/transformation/normalize-file.js",
+  "removed_code": "  if (options.inputSourceMap !== false) {\n    if (typeof options.inputSourceMap === \"object\") {\n      inputMap = _convertSourceMap().fromObject(options.inputSourceMap);\n    }\n    if (!inputMap) {\n      const lastComment = extractComments(INLINE_SOURCEMAP_REGEX, ast);\n      if (lastComment) {\n        try {\n          inputMap = _convertSourceMap().fromComment(\"//\" + lastComment);\n        } catch (err) {\n          debug(\"discarding unknown inline input sourcemap\");\n        }\n      }\n    }\n    if (!inputMap) {\n      const lastComment = extractComments(EXTERNAL_SOURCEMAP_REGEX, ast);\n      if (typeof options.filename === \"string\" && lastComment) {\n        try {\n          const match = EXTERNAL_SOURCEMAP_REGEX.exec(lastComment);\n          const inputMapContent = _fs().readFileSync(_path().resolve(_path().dirname(options.filename), match[1]), \"utf8\");\n          inputMap = _convertSourceMap().fromJSON(inputMapContent);\n        } catch (err) {\n          debug(\"discarding unknown file input sourcemap\", err);\n        }\n      } else if (lastComment) {\n        debug(\"discarding un-loadable file input sourcemap\");\n      }\n    }\n  }\n",
+  "before_sha256": "bdf25fe0000338077e920b2bc6dd708f679feb2a8627cbaf114f5213f388f157",
+  "after_sha256": "e1914974f2441c4a9ab8578a349af0d9cb0c2cfa6b56a94964b92f9a2b81f47b",
+  "upstream_archive_sha256": "126302b733be834cd346c5732904949079b71eb3a98b96b60ee393a476f9c327"
+}

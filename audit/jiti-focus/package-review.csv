@@ -1,0 +1,72 @@
+name,version,status,note
+@babel/code-frame,7.29.0,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+@babel/compat-data,7.29.3,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+@babel/core,7.29.0,focused-static-review,重点追踪 sourceMappingURL → normalize-file → readFileSync → inputMap；已删除输入 source map 加载块。官方公告的行为与实际源码一致；未发现额外固定外传端点。
+@babel/generator,7.29.1,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-annotate-as-pure,7.27.3,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-compilation-targets,7.28.6,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+@babel/helper-create-class-features-plugin,7.29.3,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-globals,7.28.0,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-member-expression-to-functions,7.28.5,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-module-imports,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-module-transforms,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-optimise-call-expression,7.27.1,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-plugin-utils,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-replace-supers,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-simple-access,7.27.1,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-skip-transparent-expression-wrappers,7.27.1,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-string-parser,7.27.1,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-validator-identifier,7.28.5,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helper-validator-option,7.27.1,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/helpers,7.29.2,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/parser,7.29.3,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-proposal-decorators,7.29.0,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-syntax-class-properties,7.12.13,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-syntax-decorators,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-syntax-import-assertions,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-syntax-jsx,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-syntax-typescript,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-transform-destructuring,7.28.5,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-transform-explicit-resource-management,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-transform-export-namespace-from,7.27.1,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-transform-modules-commonjs,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-transform-react-jsx,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/plugin-transform-typescript,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/preset-typescript,7.28.5,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/template,7.28.6,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/traverse,7.29.0,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@babel/types,7.29.0,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+@jridgewell/gen-mapping,0.3.13,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+@jridgewell/remapping,2.3.5,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+@jridgewell/resolve-uri,3.1.2,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+@jridgewell/sourcemap-codec,1.5.5,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+@jridgewell/trace-mapping,0.3.31,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+acorn,8.16.0,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+babel-plugin-parameter-decorator,1.0.16,focused-static-review,已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。
+baseline-browser-mapping,2.10.27,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+browserslist,4.28.2,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+caniuse-lite,1.0.30001791,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+confbox,0.1.8,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+convert-source-map,2.0.0,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+debug,4.4.3,focused-static-review,日志/终端颜色/时间格式化工具；debug 的浏览器存储用于日志开关。构建中关闭 JITI_DEBUG，未发现凭据外传路径。
+electron-to-chromium,1.5.349,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+escalade,3.2.0,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+gensync,1.0.0-beta.2,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+get-tsconfig,4.14.0,focused-static-review,本地模块/配置路径解析与文件读取；读取对象由调用者的模块/配置路径决定。未发现自动安装包、固定网络上传地址或凭据搜索。
+has-flag,4.0.0,focused-static-review,日志/终端颜色/时间格式化工具；debug 的浏览器存储用于日志开关。构建中关闭 JITI_DEBUG，未发现凭据外传路径。
+js-tokens,4.0.0,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+jsesc,3.1.0,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+json5,2.2.3,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+lru-cache,5.1.1,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+mlly,1.8.2,focused-static-review,本地模块/配置路径解析与文件读取；读取对象由调用者的模块/配置路径决定。未发现自动安装包、固定网络上传地址或凭据搜索。
+ms,2.1.3,focused-static-review,日志/终端颜色/时间格式化工具；debug 的浏览器存储用于日志开关。构建中关闭 JITI_DEBUG，未发现凭据外传路径。
+node-releases,2.0.38,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+pathe,2.0.3,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+picocolors,1.1.1,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+pkg-types,1.3.1,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+resolve-pkg-maps,1.0.0,focused-static-review,本地模块/配置路径解析与文件读取；读取对象由调用者的模块/配置路径决定。未发现自动安装包、固定网络上传地址或凭据搜索。
+semver,6.3.1,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+supports-color,7.2.0,focused-static-review,日志/终端颜色/时间格式化工具；debug 的浏览器存储用于日志开关。构建中关闭 JITI_DEBUG，未发现凭据外传路径。
+ufo,1.6.4,focused-static-review,已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。
+update-browserslist-db,1.2.3,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。
+yallist,3.1.1,not-delivered-build-reference,上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。

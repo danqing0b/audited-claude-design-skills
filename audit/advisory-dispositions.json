@@ -1,0 +1,31 @@
+[
+  {
+    "advisory": "GHSA-4x5r-pxfx-6jf8",
+    "package": "@babel/core@7.29.0",
+    "status": "fixed-in-delivered-code",
+    "evidence": [
+      "audit/jiti-local-patch.json",
+      "audit/babel-reference-local-patch.json",
+      "tests/jiti-patch.test.mjs"
+    ],
+    "note": "Official source-map vulnerability; input map loading removed in actual jiti bundle and reference archive. Raw version scanners may still match the retained upstream version."
+  },
+  {
+    "advisory": "GHSA-c83g-rgw3-j3cx",
+    "package": "browserslist@4.28.2",
+    "status": "not-delivered",
+    "note": "Upstream build-closure query only; jiti uses a helper-compilation-targets stub. This archive is excluded from delivery."
+  },
+  {
+    "advisory": "GHSA-73wf-gq98-2v4g",
+    "package": "browserslist@4.28.2",
+    "status": "not-delivered",
+    "note": "Same non-delivered upstream build reference."
+  },
+  {
+    "advisory": "GHSA-w5vr-8v7q-w6rv",
+    "package": "baseline-browser-mapping@2.10.27",
+    "status": "not-delivered",
+    "note": "Same stubbed, non-delivered Browserslist build path; archive excluded."
+  }
+]

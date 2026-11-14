@@ -1,0 +1,7 @@
+node_modules/
+dist/
+bundle.html
+.cache/
+.audit-source/
+*.tsbuildinfo
+.DS_Store
