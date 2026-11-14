@@ -1,0 +1,13 @@
+{
+  "package": "jiti",
+  "version": "2.7.0",
+  "upstream_integrity": "sha512-AC/7JofJvZGrrneWNaEnJeOLUx+JlGt7tNa0wZiRPT4MY1wmfKjt2+6O2p2uz2+skll8OZZmJMNqeke7kKbNgQ==",
+  "upstream_sha256": "8dd0d365fb49c0e7cc42d6a00df6fb2da9056fc24492094346fc34ecdbcf28ca",
+  "file": "dist/babel.cjs",
+  "before_sha256": "b3bc89a8dc40860fb6a7a78512bdfe5976c6253e6ded74b7d96ece803cac8701",
+  "after_sha256": "0272b0cb447deaf4c55eae7e3168b790d2b63537ecf015f8fb494e3967621564",
+  "removed_code": "if(!1!==t.inputSourceMap){if(\"object\"==typeof t.inputSourceMap&&(u=_convertSourceMap().fromObject(t.inputSourceMap)),!u){const e=extractComments(p,a);if(e)try{u=_convertSourceMap().fromComment(\"//\"+e)}catch(e){l(\"discarding unknown inline input sourcemap\")}}if(!u){const e=extractComments(c,a);if(\"string\"==typeof t.filename&&e)try{const r=c.exec(e),n=_fs().readFileSync(_path().resolve(_path().dirname(t.filename),r[1]),\"utf8\");u=_convertSourceMap().fromJSON(n)}catch(e){l(\"discarding unknown file input sourcemap\",e)}else e&&l(\"discarding un-loadable file input sourcemap\")}}",
+  "reason": "GHSA-4x5r-pxfx-6jf8: disable both inline and external input source maps in the bundled Babel normalizer; no external-map filesystem read remains in this path.",
+  "patched_integrity": "sha512-AHYVDNwg+g/xcdM8qJ6n0RbnpsvqxCkeorRRrNKOnWSyXNjlB3F05PpMKLx+feOfALk1kjGmOz0nQJqftgNakQ==",
+  "patched_sha256": "516d5d86f1ccb73d1b9cdbe4724a1e18e1b5cb966dfa683f3673aaeb071f2dac"
+}

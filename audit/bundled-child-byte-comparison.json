@@ -1,0 +1,44 @@
+[
+  {
+    "bundled_path": "node_modules/@tailwindcss/oxide-wasm32-wasi/node_modules/@emnapi/core",
+    "name": "@emnapi/core",
+    "version": "1.11.3",
+    "codefiles": 8,
+    "different_codefiles": []
+  },
+  {
+    "bundled_path": "node_modules/@tailwindcss/oxide-wasm32-wasi/node_modules/@emnapi/runtime",
+    "name": "@emnapi/runtime",
+    "version": "1.11.3",
+    "codefiles": 9,
+    "different_codefiles": []
+  },
+  {
+    "bundled_path": "node_modules/@tailwindcss/oxide-wasm32-wasi/node_modules/@emnapi/wasi-threads",
+    "name": "@emnapi/wasi-threads",
+    "version": "1.2.3",
+    "codefiles": 8,
+    "different_codefiles": []
+  },
+  {
+    "bundled_path": "node_modules/@tailwindcss/oxide-wasm32-wasi/node_modules/@napi-rs/wasm-runtime",
+    "name": "@napi-rs/wasm-runtime",
+    "version": "1.2.2",
+    "codefiles": 7,
+    "different_codefiles": []
+  },
+  {
+    "bundled_path": "node_modules/@tailwindcss/oxide-wasm32-wasi/node_modules/@tybys/wasm-util",
+    "name": "@tybys/wasm-util",
+    "version": "0.10.3",
+    "codefiles": 35,
+    "different_codefiles": []
+  },
+  {
+    "bundled_path": "node_modules/@tailwindcss/oxide-wasm32-wasi/node_modules/tslib",
+    "name": "tslib",
+    "version": "2.8.1",
+    "codefiles": 4,
+    "different_codefiles": []
+  }
+]

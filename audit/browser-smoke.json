@@ -1,0 +1,17 @@
+{
+  "browser": "Chromium headless; loopback-only navigation then offline interactions; non-loopback requests blocked",
+  "ui": {
+    "counter": true,
+    "dialogOpenAndClose": true,
+    "externalRequests": [],
+    "pageErrors": []
+  },
+  "algorithmicArt": {
+    "canvas": {
+      "width": 1200,
+      "height": 1200
+    },
+    "externalRequests": [],
+    "pageErrors": []
+  }
+}

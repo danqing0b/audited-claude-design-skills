@@ -1,0 +1,322 @@
+[
+  {
+    "path": "package.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "64fc3f17494f33fc75dca5877f2ffce27ab732df",
+    "size": 4784,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/64fc3f17494f33fc75dca5877f2ffce27ab732df"
+  },
+  {
+    "path": "src/_types/babel-core.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7fd7984f17bdd91fdd3dceb64fe9b42520aef2eb",
+    "size": 189,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/7fd7984f17bdd91fdd3dceb64fe9b42520aef2eb"
+  },
+  {
+    "path": "src/_types/babel-helper-module-transforms.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9b568efcceb59b5235a869f79e6101fb7eaae742",
+    "size": 5774,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/9b568efcceb59b5235a869f79e6101fb7eaae742"
+  },
+  {
+    "path": "src/_types/babel-helper-plugin-utils.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "858813032c84095c979baf6ef450443a4bec5e54",
+    "size": 1456,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/858813032c84095c979baf6ef450443a4bec5e54"
+  },
+  {
+    "path": "src/_types/babel-helper-simple-access.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3486e243c29a4eec410e0d8ebe3f91ea6739e414",
+    "size": 244,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/3486e243c29a4eec410e0d8ebe3f91ea6739e414"
+  },
+  {
+    "path": "src/_types/babel-plugin-parameter-decorator.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2f27a45da056a0c45a1c683463733cd821672d91",
+    "size": 220,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/2f27a45da056a0c45a1c683463733cd821672d91"
+  },
+  {
+    "path": "src/_types/babel-plugin-proposal-decorators.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d2ccbc4650e28ad01c34587aa47a8030aae3f013",
+    "size": 501,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/d2ccbc4650e28ad01c34587aa47a8030aae3f013"
+  },
+  {
+    "path": "src/_types/babel-plugin-syntax-class-properties.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "58326c71b78c5a414c742a5882e876fd4c8a7fc8",
+    "size": 231,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/58326c71b78c5a414c742a5882e876fd4c8a7fc8"
+  },
+  {
+    "path": "src/_types/babel-plugin-syntax-decorators.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e643d99e6d9de7eaa9145a17e288f09b9741fff1",
+    "size": 458,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/e643d99e6d9de7eaa9145a17e288f09b9741fff1"
+  },
+  {
+    "path": "src/_types/babel-plugin-syntax-import-assertions.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "810f700fc3b0fb6b7a88e004c249066178a45164",
+    "size": 234,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/810f700fc3b0fb6b7a88e004c249066178a45164"
+  },
+  {
+    "path": "src/_types/babel-plugin-syntax-jsx.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "687e32658356960f8fa44fd1e4072877f7596c4d",
+    "size": 176,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/687e32658356960f8fa44fd1e4072877f7596c4d"
+  },
+  {
+    "path": "src/_types/babel-plugin-syntax-typescript.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d92a4eddd55870d335240e7b03350951d24b9da4",
+    "size": 338,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/d92a4eddd55870d335240e7b03350951d24b9da4"
+  },
+  {
+    "path": "src/_types/babel-plugin-transform-explicit-resource-management.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "20a2ba7bf5ea178a7158cec81a44358fce717f86",
+    "size": 274,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/20a2ba7bf5ea178a7158cec81a44358fce717f86"
+  },
+  {
+    "path": "src/_types/babel-plugin-transform-export-namespace-from.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5eb5d888747f60e76573f49930a6b59610141559",
+    "size": 253,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/5eb5d888747f60e76573f49930a6b59610141559"
+  },
+  {
+    "path": "src/_types/babel-plugin-transform-react-jsx.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dc5cd9cf432b9a58791c10a097c4044efd54d07b",
+    "size": 544,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/dc5cd9cf432b9a58791c10a097c4044efd54d07b"
+  },
+  {
+    "path": "src/_types/babel-plugin-transform-typescript-metadata.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9160f3f7a351784be7ce938e7ef62ace048ea9d8",
+    "size": 240,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/9160f3f7a351784be7ce938e7ef62ace048ea9d8"
+  },
+  {
+    "path": "src/_types/babel-plugin-transform-typescript.d.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "105d82c2118ab93b22c2bdfaefa28b2e48e12cfb",
+    "size": 673,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/105d82c2118ab93b22c2bdfaefa28b2e48e12cfb"
+  },
+  {
+    "path": "src/babel.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "db32b664c459aa54b9b3f42d0f9bf5fa384bec1c",
+    "size": 3387,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/db32b664c459aa54b9b3f42d0f9bf5fa384bec1c"
+  },
+  {
+    "path": "src/cache.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "afd17527860bc383d22e381c52957854f85a6b92",
+    "size": 2872,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/afd17527860bc383d22e381c52957854f85a6b92"
+  },
+  {
+    "path": "src/eval.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3fcf671ebf649ae2707455e86cdfad0b665c7635",
+    "size": 7360,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/3fcf671ebf649ae2707455e86cdfad0b665c7635"
+  },
+  {
+    "path": "src/jiti.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "160a331b5f21df5c5129e3be0a0f06319a1310f0",
+    "size": 5500,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/160a331b5f21df5c5129e3be0a0f06319a1310f0"
+  },
+  {
+    "path": "src/options.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "32d48816657c8a449c677ea188acc2c8c38823a3",
+    "size": 2201,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/32d48816657c8a449c677ea188acc2c8c38823a3"
+  },
+  {
+    "path": "src/plugins/babel-plugin-transform-typescript-metadata/index.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9bf9c98843afd31905d205421654f54dad56ac8d",
+    "size": 1605,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/9bf9c98843afd31905d205421654f54dad56ac8d"
+  },
+  {
+    "path": "src/plugins/babel-plugin-transform-typescript-metadata/metadata-visitor.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6815a9785e8a14816575a0ef8cc7de0d92bebb63",
+    "size": 2348,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/6815a9785e8a14816575a0ef8cc7de0d92bebb63"
+  },
+  {
+    "path": "src/plugins/babel-plugin-transform-typescript-metadata/parameter-visitor.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "81dd56d097695e2de066b04f9a9940292e66ca74",
+    "size": 3498,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/81dd56d097695e2de066b04f9a9940292e66ca74"
+  },
+  {
+    "path": "src/plugins/babel-plugin-transform-typescript-metadata/serialize-type.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "41ed7fe32a2dfba462def3b0f51a0a9bbe224d0a",
+    "size": 8380,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/41ed7fe32a2dfba462def3b0f51a0a9bbe224d0a"
+  },
+  {
+    "path": "src/plugins/import-meta-env.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "992aecff10edd1930850e20b4af0cd95ae121979",
+    "size": 1394,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/992aecff10edd1930850e20b4af0cd95ae121979"
+  },
+  {
+    "path": "src/plugins/import-meta-paths.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2d83ec7f9871f3322e3d35c7f339d1ee6181be93",
+    "size": 2864,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/2d83ec7f9871f3322e3d35c7f339d1ee6181be93"
+  },
+  {
+    "path": "src/plugins/import-meta-resolve.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2cfbea2ea9b87e5ae03244972abd55ed08bfad9c",
+    "size": 1100,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/2cfbea2ea9b87e5ae03244972abd55ed08bfad9c"
+  },
+  {
+    "path": "src/plugins/transform-module/dynamic-import.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "12db331f9d59a1aac35da923859d0e3b35e775ea",
+    "size": 1294,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/12db331f9d59a1aac35da923859d0e3b35e775ea"
+  },
+  {
+    "path": "src/plugins/transform-module/hooks.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "652685b1b9e5a3b0d97497fd28dcd7ceb7f14895",
+    "size": 2320,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/652685b1b9e5a3b0d97497fd28dcd7ceb7f14895"
+  },
+  {
+    "path": "src/plugins/transform-module/index.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1a63a4346e04562840f8fac716ef2b95c221908f",
+    "size": 10799,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/1a63a4346e04562840f8fac716ef2b95c221908f"
+  },
+  {
+    "path": "src/plugins/transform-module/lazy.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2c61fc833d690877dc1e6c7de06fba222d992c43",
+    "size": 1594,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/2c61fc833d690877dc1e6c7de06fba222d992c43"
+  },
+  {
+    "path": "src/require.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9aba1cac080d47f0da49c875162b53fcc91e875c",
+    "size": 4759,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/9aba1cac080d47f0da49c875162b53fcc91e875c"
+  },
+  {
+    "path": "src/resolve.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d170f1f4e8657f9fac04d2026e556e50f141bb59",
+    "size": 3078,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/d170f1f4e8657f9fac04d2026e556e50f141bb59"
+  },
+  {
+    "path": "src/transform.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "785093193dc12848a5a775c52b3831e08f781902",
+    "size": 796,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/785093193dc12848a5a775c52b3831e08f781902"
+  },
+  {
+    "path": "src/types.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b3792197692fad640ec03767ab11e2d5b3c1dd95",
+    "size": 766,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/b3792197692fad640ec03767ab11e2d5b3c1dd95"
+  },
+  {
+    "path": "src/utils.ts",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "67f1e4896e1fa42584529de4914e2be485ef0e97",
+    "size": 5009,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/67f1e4896e1fa42584529de4914e2be485ef0e97"
+  },
+  {
+    "path": "stubs/babel-codeframe.mjs",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bfbc75c1b134acec19c00c765909756f672909fd",
+    "size": 52,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/bfbc75c1b134acec19c00c765909756f672909fd"
+  },
+  {
+    "path": "stubs/helper-compilation-targets.mjs",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3b8362ed8d6980299f6bfd393f2ddafe639842b2",
+    "size": 140,
+    "url": "https://api.github.com/repos/unjs/jiti/git/blobs/3b8362ed8d6980299f6bfd393f2ddafe639842b2"
+  }
+]

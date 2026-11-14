@@ -1,0 +1,33 @@
+Upstream skills: anthropics/skills, commit 2c5958ecac7cee2b583967a2c4981d0f4a75c579.
+This derivative changes dependency installation, bundling, local assets, UI compatibility, and verification.
+Original per-skill Apache-2.0 notices are retained in each skill directory.
+
+The 43 UI TSX components, hooks/use-toast.ts, and lib/utils.ts originated from
+skills/web-artifacts-builder/scripts/shadcn-components.tar.gz in the above commit.
+Original archive SHA-256: 1296f069e825de7933de7e8ac63672495cacce3f88f2dc45554dbcddbcbca60f.
+An exact upstream shadcn source commit was not provided in that archive.
+Local changes include react-resizable-panels v4 compatibility and Tailwind v4 compatibility.
+shadcn/ui's MIT license follows; this attribution does not assert identical code to current upstream.
+
+MIT License
+
+Copyright (c) 2023 shadcn
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+

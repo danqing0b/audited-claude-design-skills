@@ -1,0 +1,1 @@
+{"before":{"canaryFileReads":1,"outputMapContainsFakeSecret":true},"after":{"canaryFileReads":0,"outputMapContainsFakeSecret":false},"realSecretsUsed":false,"uid":1000,"node":"v24.22.1","networkInterfaces":["lo"]}

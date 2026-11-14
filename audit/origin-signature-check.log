@@ -1,0 +1,1 @@
+{"packages":317,"validRegistrySignatures":317,"withoutVerifiedSignature":[],"limitation":"Registry key verification authenticates the upstream metadata integrity, not absence of malicious code or local patches. Expiry fields are retained; signing timestamps/Sigstore attestations are not independently validated."}

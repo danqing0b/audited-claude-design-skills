@@ -1,0 +1,428 @@
+[
+  {
+    "name": "@babel/code-frame",
+    "version": "7.29.0",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "@babel/compat-data",
+    "version": "7.29.3",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "@babel/core",
+    "version": "7.29.0",
+    "status": "focused-static-review",
+    "note": "重点追踪 sourceMappingURL → normalize-file → readFileSync → inputMap；已删除输入 source map 加载块。官方公告的行为与实际源码一致；未发现额外固定外传端点。"
+  },
+  {
+    "name": "@babel/generator",
+    "version": "7.29.1",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-annotate-as-pure",
+    "version": "7.27.3",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-compilation-targets",
+    "version": "7.28.6",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "@babel/helper-create-class-features-plugin",
+    "version": "7.29.3",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-globals",
+    "version": "7.28.0",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-member-expression-to-functions",
+    "version": "7.28.5",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-module-imports",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-module-transforms",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-optimise-call-expression",
+    "version": "7.27.1",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-plugin-utils",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-replace-supers",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-simple-access",
+    "version": "7.27.1",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-skip-transparent-expression-wrappers",
+    "version": "7.27.1",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-string-parser",
+    "version": "7.27.1",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-validator-identifier",
+    "version": "7.28.5",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helper-validator-option",
+    "version": "7.27.1",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/helpers",
+    "version": "7.29.2",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/parser",
+    "version": "7.29.3",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-proposal-decorators",
+    "version": "7.29.0",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-syntax-class-properties",
+    "version": "7.12.13",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-syntax-decorators",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-syntax-import-assertions",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-syntax-jsx",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-syntax-typescript",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-transform-destructuring",
+    "version": "7.28.5",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-transform-explicit-resource-management",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-transform-export-namespace-from",
+    "version": "7.27.1",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-transform-modules-commonjs",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-transform-react-jsx",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/plugin-transform-typescript",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/preset-typescript",
+    "version": "7.28.5",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/template",
+    "version": "7.28.6",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/traverse",
+    "version": "7.29.0",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@babel/types",
+    "version": "7.29.0",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "@jridgewell/gen-mapping",
+    "version": "0.3.13",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "@jridgewell/remapping",
+    "version": "2.3.5",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "@jridgewell/resolve-uri",
+    "version": "3.1.2",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "@jridgewell/sourcemap-codec",
+    "version": "1.5.5",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "@jridgewell/trace-mapping",
+    "version": "0.3.31",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "acorn",
+    "version": "8.16.0",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "babel-plugin-parameter-decorator",
+    "version": "1.0.16",
+    "status": "focused-static-review",
+    "note": "已核对所交付转译器/语法插件/AST helper 的敏感行为。此链默认关闭 babelrc/configFile；插件转换源码 AST，不自动收集或发送凭据。配置加载与生成代码仅应处理可信输入。"
+  },
+  {
+    "name": "baseline-browser-mapping",
+    "version": "2.10.27",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "browserslist",
+    "version": "4.28.2",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "caniuse-lite",
+    "version": "1.0.30001791",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "confbox",
+    "version": "0.1.8",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "convert-source-map",
+    "version": "2.0.0",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "debug",
+    "version": "4.4.3",
+    "status": "focused-static-review",
+    "note": "日志/终端颜色/时间格式化工具；debug 的浏览器存储用于日志开关。构建中关闭 JITI_DEBUG，未发现凭据外传路径。"
+  },
+  {
+    "name": "electron-to-chromium",
+    "version": "1.5.349",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "escalade",
+    "version": "3.2.0",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "gensync",
+    "version": "1.0.0-beta.2",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "get-tsconfig",
+    "version": "4.14.0",
+    "status": "focused-static-review",
+    "note": "本地模块/配置路径解析与文件读取；读取对象由调用者的模块/配置路径决定。未发现自动安装包、固定网络上传地址或凭据搜索。"
+  },
+  {
+    "name": "has-flag",
+    "version": "4.0.0",
+    "status": "focused-static-review",
+    "note": "日志/终端颜色/时间格式化工具；debug 的浏览器存储用于日志开关。构建中关闭 JITI_DEBUG，未发现凭据外传路径。"
+  },
+  {
+    "name": "js-tokens",
+    "version": "4.0.0",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "jsesc",
+    "version": "3.1.0",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "json5",
+    "version": "2.2.3",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "lru-cache",
+    "version": "5.1.1",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "mlly",
+    "version": "1.8.2",
+    "status": "focused-static-review",
+    "note": "本地模块/配置路径解析与文件读取；读取对象由调用者的模块/配置路径决定。未发现自动安装包、固定网络上传地址或凭据搜索。"
+  },
+  {
+    "name": "ms",
+    "version": "2.1.3",
+    "status": "focused-static-review",
+    "note": "日志/终端颜色/时间格式化工具；debug 的浏览器存储用于日志开关。构建中关闭 JITI_DEBUG，未发现凭据外传路径。"
+  },
+  {
+    "name": "node-releases",
+    "version": "2.0.38",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "pathe",
+    "version": "2.0.3",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "picocolors",
+    "version": "1.1.1",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "pkg-types",
+    "version": "1.3.1",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "resolve-pkg-maps",
+    "version": "1.0.0",
+    "status": "focused-static-review",
+    "note": "本地模块/配置路径解析与文件读取；读取对象由调用者的模块/配置路径决定。未发现自动安装包、固定网络上传地址或凭据搜索。"
+  },
+  {
+    "name": "semver",
+    "version": "6.3.1",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "supports-color",
+    "version": "7.2.0",
+    "status": "focused-static-review",
+    "note": "日志/终端颜色/时间格式化工具；debug 的浏览器存储用于日志开关。构建中关闭 JITI_DEBUG，未发现凭据外传路径。"
+  },
+  {
+    "name": "ufo",
+    "version": "1.6.4",
+    "status": "focused-static-review",
+    "note": "已校验归档、清单与敏感 API；映射/字符串/路径/编译辅助代码。未发现安装时副作用、固定上传端点或凭据窃取组合。"
+  },
+  {
+    "name": "update-browserslist-db",
+    "version": "1.2.3",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  },
+  {
+    "name": "yallist",
+    "version": "3.1.1",
+    "status": "not-delivered-build-reference",
+    "note": "上游构建闭包补充记录，未在交付 bundle 中观察到；实际 helper-compilation-targets 为固定 stub。未作为交付安装依赖。"
+  }
+]

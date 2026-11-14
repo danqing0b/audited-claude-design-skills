@@ -1,0 +1,194 @@
+[
+  {
+    "name": "@babel/code-frame",
+    "version": "7.29.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/code-frame@7.29.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "@babel/compat-data",
+    "version": "7.29.3",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/compat-data@7.29.3",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "@babel/helper-compilation-targets",
+    "version": "7.28.6",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "@babel/helper-compilation-targets@7.28.6",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "acorn",
+    "version": "8.16.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "acorn@8.16.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "baseline-browser-mapping",
+    "version": "2.10.27",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "baseline-browser-mapping@2.10.27",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "browserslist",
+    "version": "4.28.2",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "browserslist@4.28.2",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "caniuse-lite",
+    "version": "1.0.30001791",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "caniuse-lite@1.0.30001791",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "confbox",
+    "version": "0.1.8",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "confbox@0.1.8",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "electron-to-chromium",
+    "version": "1.5.349",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "electron-to-chromium@1.5.349",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "escalade",
+    "version": "3.2.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "escalade@3.2.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "js-tokens",
+    "version": "4.0.0",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "js-tokens@4.0.0",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "lru-cache",
+    "version": "5.1.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "lru-cache@5.1.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "node-releases",
+    "version": "2.0.38",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "node-releases@2.0.38",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "pkg-types",
+    "version": "1.3.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "pkg-types@1.3.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "update-browserslist-db",
+    "version": "1.2.3",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "update-browserslist-db@1.2.3(browserslist@4.28.2)",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  },
+  {
+    "name": "yallist",
+    "version": "3.1.1",
+    "origins": [
+      {
+        "host": "jiti@2.7.0",
+        "identifier": "yallist@3.1.1",
+        "kind": "upstream-runtime-closure-not-proof-of-inclusion"
+      }
+    ],
+    "status": "upstream build closure only; not observed in delivered bundle; not an installed dependency; archive excluded from delivery"
+  }
+]

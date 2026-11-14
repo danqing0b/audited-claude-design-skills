@@ -1,0 +1,13 @@
+[
+  {
+    "name": "p5",
+    "version": "1.7.0",
+    "archive": "vendor/runtime/p5@1.7.0.tgz",
+    "integrity": "sha512-qrbT/44Dwm63ZtOKX/mp61pw+5yj6ijYLOmRv7p6zcfjbo83Vb0gVFEvW0kTLFu7hceWCig0HONo9F1bSlqbsQ==",
+    "sha256": "4dbc30cee602d125dad0842e4b8628d6ad97dcf8443bb08c943b6147754cf943",
+    "inline_file": "skills/algorithmic-art/templates/viewer.html",
+    "inline_library_sha256": "bb7f8f14b9ce2e2344ff5cd6c06f2e105eb99541ecbfec77139e2886d9c0b9ba",
+    "source_exempt": true,
+    "review": "Previously reviewed known-library distribution; CDN bytes matched npm. Now embedded locally; no CDN code executes."
+  }
+]

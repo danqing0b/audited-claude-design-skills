@@ -1,0 +1,89 @@
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 669B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for docker.io/library/node:24.22.1-bookworm-slim@sha256:be8204d4bd327363357f532187b752ff62759c31bedf98e9e18fc08c9cbd605c
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 96B done
+#3 DONE 0.0s
+
+#4 [build 1/5] FROM docker.io/library/node:24.22.1-bookworm-slim@sha256:be8204d4bd327363357f532187b752ff62759c31bedf98e9e18fc08c9cbd605c
+#4 DONE 0.0s
+
+#5 [build 2/5] WORKDIR /app
+#5 CACHED
+
+#6 [internal] load build context
+#6 transferring context: 3.41MB 0.1s done
+#6 DONE 0.1s
+
+#7 [build 3/5] RUN --network=none chown node:node /app
+#7 DONE 3.4s
+
+#8 [build 4/5] COPY --chown=node:node . .
+#8 DONE 3.3s
+
+#9 [build 5/5] RUN --network=none bash scripts/offline-build.sh
+#9 3.859 {"packages":173,"dependencyEdges":405,"policy":"offline; local archives only; lifecycle scripts disabled"}
+#9 11.45 
+#9 11.45 added 129 packages in 7s
+#9 11.80 
+#9 11.80 > audited-claude-design-skills@1.0.0 typecheck
+#9 11.80 > tsc --noEmit
+#9 11.80 
+#9 14.90 
+#9 14.90 > audited-claude-design-skills@1.0.0 test
+#9 14.90 > node --test tests/*.test.mjs
+#9 14.90 
+#9 15.18 ✔ jiti trusted loading and transform make no network, process, or canary credential accesses (163.480017ms)
+#9 15.20 ✔ patched jiti transpiles TypeScript without reading sourceMappingURL files (128.155774ms)
+#9 15.20 ✔ inlines only generated in-memory script and CSS and adds a network-denying CSP (2.077996ms)
+#9 15.20 ✔ rejects untrusted script reference ../canary.txt (4.253358ms)
+#9 15.20 ✔ rejects untrusted script reference %2e%2e/canary.txt (0.171969ms)
+#9 15.20 ✔ rejects untrusted script reference /etc/passwd (0.086553ms)
+#9 15.20 ✔ rejects untrusted script reference https://example.invalid/a.js (0.092043ms)
+#9 15.20 ✔ rejects untrusted script reference //example.invalid/a.js (0.072746ms)
+#9 15.20 ✔ rejects untrusted script reference assets\main.js (0.074518ms)
+#9 15.20 ✔ rejects external CSS URLs and remaining dynamic imports (0.597174ms)
+#9 15.20 ✔ escapes a closing script tag in generated JavaScript (0.297944ms)
+#9 15.20 ✔ CSP insertion cannot modify a closing head tag inside JavaScript text (0.602192ms)
+#9 15.20 ✔ checks children as well as root packages (9.797367ms)
+#9 15.20 ✔ missing transitive archive fails before any npm operation (4.104318ms)
+#9 15.20 ✔ tampered transitive archive fails integrity validation (4.740531ms)
+#9 15.20 ✔ remote lockfile resolution is rejected even when archive exists (4.797761ms)
+#9 15.20 ✔ unreviewed or absent child package is rejected (4.922025ms)
+#9 15.20 ✔ network-capable npm config is rejected (4.590931ms)
+#9 15.20 ✔ project lockfile and root dependencies must agree (4.049163ms)
+#9 15.20 ℹ tests 19
+#9 15.20 ℹ suites 0
+#9 15.20 ℹ pass 19
+#9 15.20 ℹ fail 0
+#9 15.20 ℹ cancelled 0
+#9 15.20 ℹ skipped 0
+#9 15.20 ℹ todo 0
+#9 15.20 ℹ duration_ms 269.868587
+#9 15.31 
+#9 15.31 > audited-claude-design-skills@1.0.0 build
+#9 15.31 > node scripts/build.mjs
+#9 15.31 
+#9 16.44 vite v8.3.8 building client environment for production...
+#9 16.45 transforming...
+#9 16.70 ✓ 2324 modules transformed.
+#9 16.75 rendering chunks...
+#9 16.84 computing gzip size...
+#9 16.85 dist/index.html  473.23 kB │ gzip: 140.12 kB
+#9 16.85 
+#9 16.85 ✓ built in 415ms
+#9 16.85 Built dist/index.html and bundle.html entirely from local dependencies.
+#9 DONE 16.9s
+
+#10 exporting to image
+#10 exporting layers
+#10 exporting layers 2.1s done
+#10 writing image sha256:6e43a0af60124741ac9afaa417e35f75ffdde08c6263403de94042203b12744d done
+#10 naming to docker.io/library/audited-design-build:local done
+#10 DONE 2.1s
